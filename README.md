@@ -86,11 +86,11 @@ This dashboard analyzes TVF's board and community satisfaction with property man
 ---
 
 ## **Dashboard Snapshot**  
-*[Include Power BI visuals here, e.g., response trends, satisfaction scores, and comment analysis]*  
+![image alt](https://github.com/priyankfeb/Images/blob/dd81c9ceed8269a1cd6db329796711ed7c079740/image%20(4).png)  
 
 ---
 
-**Created by**: [Your Name]  
+**Created by**: Priyank Sharma  
 **Data Source**: TVF Board Surveys (modified for security).  
 **Tools**: Power BI, DAX, Conditional Formatting.  
 
