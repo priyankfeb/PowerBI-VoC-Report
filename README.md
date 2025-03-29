@@ -86,7 +86,7 @@ This dashboard analyzes TVF's board and community satisfaction with property man
 ---
 
 ## **Dashboard Snapshot**  
-![image alt](https://github.com/priyankfeb/Images/blob/dd81c9ceed8269a1cd6db329796711ed7c079740/image%20(4).png)  
+![image alt](https://github.com/priyankfeb/PowerBI-VoC-Report/blob/ed2fe3d85bcc1592e81fb5fe3f5d7e6ba9e1eb4c/image%20(4)%20(1).png)  
 
 ---
 
